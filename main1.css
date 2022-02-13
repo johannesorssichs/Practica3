@@ -1,0 +1,105 @@
+body{
+	margin: 0;
+	/*background-image:url(dark_blue.png);*/
+	background-color:red;
+	text-align:justify;
+	font-family:'Arial',Arial;
+	font-size:11pt;
+}
+
+a{
+	color:red;
+}
+
+.contenedor_superior{
+	margin:auto;
+	background-color:white;
+	width:80%;
+}
+
+.encabezado_pagina{
+	background-color:white;
+	height:250;
+	text-align:center;
+	color:red;
+}
+
+.fotos{
+	margin:auto;
+	width:auto;
+	text-align:center;
+	padding: 10 5 10 5;
+}
+
+/*.columna img{
+	border-radius:400px;
+	margin:auto;
+}*/
+
+.contenedor_inferior{
+	/*width:90%;*/
+	/*padding: 0 35 0 35;*/
+	padding:0 35 0 35;
+}
+
+.casilladerecha{
+	/*margin-left:900;*/
+	float:right;
+	padding:0 5 0 5;
+	width:17%;
+	background-color:white;
+}
+
+.contenidoPrincipal{
+	width:80%;
+}
+
+.capitulos img{
+	margin-right: 10;
+	margin-left: 10;
+	width:30%;
+	height:150;
+}
+
+
+.imagenIzquierda{
+	float:left;
+}
+
+.imagenDerecha{
+	float:right;
+}
+
+.imagenalargada img{
+	margin-right: 10;
+	margin-left: 10;
+	width:50%;
+	height:150;
+}
+
+.imagenSeparada{
+	float:right;
+}
+
+.linea{
+	margin-top:25;
+}
+
+.nombre{
+	display:inline-block;
+}
+
+.apellidos{
+	display:inline-block;
+}
+
+.mail{
+	display:inline-block;
+	
+}
+
+.user_message{
+	display:inline-block;
+}
+
+
